@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 import os
 
 os.makedirs("outputs", exist_ok=True)
